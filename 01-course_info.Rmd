@@ -29,6 +29,8 @@ df <- data.frame(Day, Activity)
 knitr::kable(df) 
 ```
 
+The first three days of the week are dedicated to lessons and homework from the textbook. Most weeks, last two days will be dedicated to statistical computing.
+
 ### Class Materials
 
 **Textbook:** [OpenIntro Statistics, 4th Ed](https://leanpub.com/openintro-statistics)
@@ -46,20 +48,20 @@ knitr::kable(df)
 Category  | Weight
 ------------- | -------------
 Homework  | 20%
-Quizzes  | 20%
+Quizzes  | 25%
 Labs | 20%
-Paper | 15%
+Paper | 10%
 Final|  25%
 Total   | 100%
 
 #### Homework:
-All homework assignments will be online. For these assignments, you will have 3 attempts per question. After the third attempt you will be shown the answer. You can reattempt each question as many times as you'd like! Homework must be completed by 11:59 pm. You will not be able to complete the quiz until you have finished the week's homework assignments with a 50% or better! Your lowest 2 assignments will be dropped.
+All homework assignments will be online using [WAMAP](https://www.wamap.org). For these assignments, you will have 3 attempts per question. After the third attempt you will be shown the answer. You can reattempt each question as many times as you'd like! Homework must be completed by 11:59 pm. You will not be able to complete the quiz until you have finished a module's homework assignments with a 50% or better! Your lowest 3 assignments will be dropped.
 
 #### Quizzes:
-Each module will have weekly quizzes. The quiz will be locked until you meet the prerequisites. Your lowest 2 quizzes will be dropped. If you miss a quiz it counts as one of your drop scores.
+Each module will have a quiz closely related to the homework. The quiz will be locked until you meet the prerequisites. Your lowest quiz will be dropped. If you miss a quiz it counts as your dropped score.
 
 #### Labs:
-We will have a total of seven computer lab days. Those dates are listed below (see Important Dates) and in the *Welcome email*. Your lowest two labs will be dropped.
+We will have weekly coding sessions and workshops with the exception of weeks seven and fourteen. Your lowest two labs (workshop assignments) will be dropped.
 
 #### Paper:
 Each student will be required to write a paper about statistics in the media. Details will be given out in the second week of class via the Class Communications guidelines. The paper is due no later than the Last Day of Instruction (see Important Dates below). If there is a week where you don't have much work in your other classes or our class didn't take you long then you may want to knock out the paper early in the semester.
@@ -70,13 +72,6 @@ The final project will be partly in R and partly on WAMAP. It will be due no lat
 ### Important Dates
 Date  | Event
 ------------- | -------------
-2/25/2021 | Lab #1
-3/4/2021 | Lab #2
-3/18/2021 | Lab #3
-3/25/2021 | Lab #4
 4/2/2021  | No Class: Good Friday
-4/8/2021 | Lab #5
-4/29/2021 | Lab #6
-5/6/2021 | Lab #7
 5/21/2021 | Last Day of Instruction
 5/24/2021-5/28/2021 | Finals Week
